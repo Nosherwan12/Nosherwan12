@@ -6,7 +6,7 @@ I develop embedded firmware for microcontrollers, with hands-on experience in **
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Languages:** Embedded C, C/C++
 - **Microcontrollers:** STM32 (ARM Cortex-M), ESP32
@@ -47,7 +47,3 @@ I develop embedded firmware for microcontrollers, with hands-on experience in **
 
 - **LinkedIn:** [Nosherwan Saeed](https://www.linkedin.com/in/nosherwan-saeed)
 - **Email:** [nosherwansaeed2000@gmail.com](mailto:nosherwansaeed2000@gmail.com)
-
-- **GitHub:** [@yourusername](https://github.com/yourusername)
-- **LinkedIn:** [Your Name](https://linkedin.com/in/yourprofile)
-- **Email:** your.email@example.com
