@@ -39,8 +39,14 @@ I develop embedded firmware for microcontrollers, with hands-on experience in **
 
 ##  Projects
 
-> Actively building — projects will be pinned here as they're completed.
+> Actively building.Projects will be pinned here as they're completed.
 
+| Project | Description | Link |
+|---------|-------------|------|
+| Zone-Temperature-Fan-Control | Temperature-based fan control | [View Project](https://github.com/Nosherwan12/Zone-Temperature-Fan-Control) |
+| ESP32 UART Command Console | Serial console interface | [View Project](https://github.com/Nosherwan12/ESP32_UART_Command_Console) |
+| ESP32 FreeRTOS Task Manager | FreeRTOS task management | [View Project](https://github.com/Nosherwan12/ESP32_FreeRTOS_Task_Manager) |
+| ESP32 MQTT | MQTT communication | [View Project](https://github.com/Nosherwan12/ESP32_MQTT) |
 ---
 
 ##  Contact
